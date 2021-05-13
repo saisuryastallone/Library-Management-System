@@ -1,0 +1,29 @@
+.title{
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    font: italic small-caps bold 16px cursive;
+    
+    width: 270px;
+    color: green;
+    border: solid black 2px;
+    
+}
+
+input[type="button"]{
+    background-color: green;
+    color: white;
+    border: solid black 2px;
+    width: 100%;
+    
+}
+
+input[type="text"]{
+    background-color: floralwhite;
+    border: solid black 2px;
+    width: 100%;
+        
+}
+
+
+
